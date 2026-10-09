@@ -17,7 +17,7 @@ I build end-to-end data projects: cleaning and feature engineering, modeling, an
 |---|---|---|---|
 | [Breast Cancer Classifier](https://github.com/alancrom/breast-cancer-classifier) | Logistic regression pipelines built to minimize missed malignant cases | Python, pandas, scikit-learn | Recall 0.952 · Precision 1.000 · AUC 0.992 |
 | [Diamond Price Prediction](https://github.com/alancrom/diamond-price-prediction) | Compares four regression models, from a one-variable baseline to degree-2 polynomial features | Python, pandas, scikit-learn | R² 0.963 · RMSE cut in half vs. baseline |
-| [Year-End Sales Strategy Dashboard](https://github.com/alancrom/numismatica-sales-dashboard) | Shows a marketplace where to focus its year-end marketing: which days, products, and states drive revenue | Tableau | 3 data-backed strategies; peak days outsell slow days by 15x+ |
+| [Year-End Sales Strategy Dashboard](https://github.com/alancrom/year-end-sales-dashboard) | Shows a marketplace where to focus its year-end marketing: which days, products, and states drive revenue | Tableau | 3 data-backed strategies; peak days outsell slow days by 15x+ |
 
 ---
 
