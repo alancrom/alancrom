@@ -7,7 +7,9 @@ I build end-to-end data projects: cleaning and feature engineering, modeling, an
 
 - 🌎 Open to remote roles in data analytics, analytics engineering, and data engineering
 - 🗣️ Spanish (native) · English (advanced)
-- 📫 [LinkedIn](TODO-LINKEDIN-URL) · [Email](mailto:TODO-EMAIL)
+- 📫 [LinkedIn](www.linkedin.com/in/alan-castro-500247394
+
+) · [Email](alancastro.rom@gmail.com)
 
 ---
 
