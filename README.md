@@ -5,7 +5,7 @@ M.Sc. student in Applied Artificial Intelligence at Tecnológico de Monterrey
 
 I build end-to-end data projects: cleaning and feature engineering, modeling, and turning results into dashboards people can actually read. My background in Animation & Digital Arts shapes how I approach data visualization: clarity first.
 
-- 🌎 Open to remote roles in data analytics, analytics engineering, and data engineering
+- 🌎 Open to remote roles in data analytics, analytics engineering, machine learning and data engineering
 - 🗣️ Spanish (native) · English (advanced)
 - 📫 [LinkedIn](https://www.linkedin.com/in/alan-castro-500247394) · [Email](mailto:alancastro.rom@gmail.com)
 
@@ -23,7 +23,9 @@ I build end-to-end data projects: cleaning and feature engineering, modeling, an
 
 ## Tech stack
 
-**Languages & libraries:** Python · pandas · NumPy · scikit-learn · Matplotlib · seaborn
+**Languages & libraries:** Python · SQL · PySpark · pandas · NumPy · scikit-learn · Matplotlib · seaborn
+
+**Platforms & tools:** Databricks · Tableau · Claude Code
 
 **Visualization & BI:** Tableau
 
